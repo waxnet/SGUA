@@ -1,5 +1,13 @@
 -----
 
+<p align= "center">
+  <kbd>
+    <img  src="https://raw.githubusercontent.com/waxnet/SGUA/main/.github/workflows/icon.png">
+  </kbd>
+</p>
+
+-----
+
 ### <p align="center">🔓 SGUA 🔓</p>
 <p align= "center">
   <img src="https://img.shields.io/github/last-commit/waxnet/SGUA">
